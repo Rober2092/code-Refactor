@@ -30,3 +30,7 @@ Web accesibility standards
 How to edit Markdown files
 Proper use of a README.mb file
 Apply above concepts in the revision and editing of the HTML and CSS files
+
+ # Installation
+The project was uploaded to GitHub at the following repository:github.com/Rober2092/code-Refactor
+You can access the deployed application with the GitHup Pages link:https://rober2092.github.io/code-Refactor/
